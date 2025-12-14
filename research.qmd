@@ -1,0 +1,16 @@
+---
+title: "Research & Projects"
+---
+
+## Current Projects
+
+### Project Title 1
+Description of what you are working on. You can add images and links here.
+
+### Project Title 2
+Description of your second project.
+
+## Past Work
+
+* **Work A**: Summary of work.
+* **Work B**: Summary of work.

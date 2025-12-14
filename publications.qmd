@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+
+## Journal Papers
+
+1.  **Krishna, V.**, Author, B. (2024). "Title of the paper". *Journal Name*. [DOI Link]
+2.  **Krishna, V.**, Author, C. (2023). "Title of the paper". *Journal Name*. [DOI Link]
+
+## Conference Proceedings
+
+1.  **Krishna, V.** (2024). "Conference Paper Title". *Conference Name*.

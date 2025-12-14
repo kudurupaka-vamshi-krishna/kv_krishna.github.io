@@ -1,0 +1,19 @@
+---
+title: "Contact"
+---
+
+Feel free to reach out to me for collaborations or inquiries.
+
+### Get in Touch
+
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Location:** City, Country
+
+### Office Address
+
+Department of X,  
+University/Company Name,  
+Address Line 1,  
+City, Zip Code.
+
+<iframe src="https://www.google.com/maps/embed?pb=YOUR_GOOGLE_MAPS_EMBED_LINK" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
