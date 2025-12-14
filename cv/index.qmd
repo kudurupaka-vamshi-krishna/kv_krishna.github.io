@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+---
+
+You can view a brief overview below and download the full CV as PDF.
+
+- **Current Position:** PhD Research Scholar, Transportation Engineering, [Institute name].
+- **Education:** PhD, M.Tech, B.Tech (with years and institutions).
+- **Research Interests:** short bullet list.
+- **Key Skills:** software and programming skills.
+
+[Download full CV](CV_Kudurupaka_Vamshi_Krishna.pdf)

@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+## Contact
+
+- Email: your.email@institute.ac.in
+- Current affiliation: Department, Institute, City, Country
+- Optional: LinkedIn / Google Scholar / GitHub links.
+
+Feel free to reach out regarding research collaborations, reviewing, or student mentoring.

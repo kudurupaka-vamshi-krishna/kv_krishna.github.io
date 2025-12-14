@@ -1,0 +1,20 @@
+---
+title: "Research"
+---
+
+## Current PhD Research
+
+Summarize your thesis topic, objectives, and methods in 1–2 paragraphs.
+
+## Research Areas
+
+- Area 1 (e.g., distracted pedestrian behaviour, VR, eye-tracking)
+- Area 2
+- Area 3
+
+## Ongoing Projects
+
+- Project title – 1–2 lines of description.
+- Project title – 1–2 lines of description.
+
+[Publications](../publications/index.qmd) provide more detailed outputs from these projects.

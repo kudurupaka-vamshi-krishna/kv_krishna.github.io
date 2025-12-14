@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+1. Author(s). Title. Journal, Year, details.
+
+## Conference Papers
+
+1. Author(s). Title. Conference, Year, location.
+
+## Under Review / In Preparation
+
+- Title – brief description and status.

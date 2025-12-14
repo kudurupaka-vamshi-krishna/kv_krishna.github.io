@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "teaching_outreach/index.html",
+    "href": "teaching_outreach/index.html",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "",
+    "text": "teaching_outreach"
+  },
+  {
+    "objectID": "styles/styles.html",
+    "href": "styles/styles.html",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "",
+    "text": "body { font-family: system-ui, -apple-system, BlinkMacSystemFont, “Segoe UI”, sans-serif; }\nmain.content { max-width: 900px; margin: 0 auto; }\nh1, h2, h3 { font-weight: 600; }\na { text-decoration: none; }\na:hover { text-decoration: underline; }"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Author(s). Title. Journal, Year, details."
+  },
+  {
+    "objectID": "publications/index.html#journal-articles",
+    "href": "publications/index.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Author(s). Title. Journal, Year, details."
+  },
+  {
+    "objectID": "publications/index.html#conference-papers",
+    "href": "publications/index.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\nAuthor(s). Title. Conference, Year, location."
+  },
+  {
+    "objectID": "publications/index.html#under-review-in-preparation",
+    "href": "publications/index.html#under-review-in-preparation",
+    "title": "Publications",
+    "section": "Under Review / In Preparation",
+    "text": "Under Review / In Preparation\n\nTitle – brief description and status."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view a brief overview below and download the full CV as PDF.\n\nCurrent Position: PhD Research Scholar, Transportation Engineering, [Institute name].\nEducation: PhD, M.Tech, B.Tech (with years and institutions).\nResearch Interests: short bullet list.\nKey Skills: software and programming skills.\n\nDownload full CV"
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@institute.ac.in\nCurrent affiliation: Department, Institute, City, Country\nOptional: LinkedIn / Google Scholar / GitHub links.\n\nFeel free to reach out regarding research collaborations, reviewing, or student mentoring."
+  },
+  {
+    "objectID": "contact/index.html#contact",
+    "href": "contact/index.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@institute.ac.in\nCurrent affiliation: Department, Institute, City, Country\nOptional: LinkedIn / Google Scholar / GitHub links.\n\nFeel free to reach out regarding research collaborations, reviewing, or student mentoring."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "",
+    "text": "Write 1–2 short paragraphs here summarizing who you are (current PhD topic, institute, and main research interests)."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "",
+    "text": "Write 1–2 short paragraphs here summarizing who you are (current PhD topic, institute, and main research interests)."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nItem 1\n\nItem 2\n\nItem 3"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "News",
+    "text": "News\n\nMonth YYYY – Short highlight 1\n\nMonth YYYY – Short highlight 2"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Kudurupaka Vamshi Krishna",
+    "section": "Quick Links",
+    "text": "Quick Links\n\nResearch\n\nPublications\n\nCV"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Summarize your thesis topic, objectives, and methods in 1–2 paragraphs."
+  },
+  {
+    "objectID": "research/index.html#current-phd-research",
+    "href": "research/index.html#current-phd-research",
+    "title": "Research",
+    "section": "",
+    "text": "Summarize your thesis topic, objectives, and methods in 1–2 paragraphs."
+  },
+  {
+    "objectID": "research/index.html#research-areas",
+    "href": "research/index.html#research-areas",
+    "title": "Research",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nArea 1 (e.g., distracted pedestrian behaviour, VR, eye-tracking)\nArea 2\nArea 3"
+  },
+  {
+    "objectID": "research/index.html#ongoing-projects",
+    "href": "research/index.html#ongoing-projects",
+    "title": "Research",
+    "section": "Ongoing Projects",
+    "text": "Ongoing Projects\n\nProject title – 1–2 lines of description.\nProject title – 1–2 lines of description.\n\nPublications provide more detailed outputs from these projects."
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "Title – Event, Institution, Location, Year."
+  },
+  {
+    "objectID": "talks/index.html#invited-talks-guest-lectures",
+    "href": "talks/index.html#invited-talks-guest-lectures",
+    "title": "Talks & Presentations",
+    "section": "",
+    "text": "Title – Event, Institution, Location, Year."
+  },
+  {
+    "objectID": "talks/index.html#conference-presentations",
+    "href": "talks/index.html#conference-presentations",
+    "title": "Talks & Presentations",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nTitle – Conference name, Location, Year."
+  }
+]

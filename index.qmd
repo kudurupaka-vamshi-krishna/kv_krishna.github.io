@@ -1,0 +1,28 @@
+---
+title: "Kudurupaka Vamshi Krishna"
+subtitle: "PhD Scholar in Transportation Engineering"
+format:
+  html:
+    toc: false
+---
+
+## About
+
+Write 1–2 short paragraphs here summarizing who you are (current PhD topic, institute, and main research interests).
+
+## Research Interests
+
+- Item 1  
+- Item 2  
+- Item 3  
+
+## News
+
+- Month YYYY – Short highlight 1  
+- Month YYYY – Short highlight 2  
+
+## Quick Links
+
+- [Research](research/index.qmd)  
+- [Publications](publications/index.qmd)  
+- [CV](cv/index.qmd)  
